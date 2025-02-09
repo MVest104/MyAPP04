@@ -9,5 +9,6 @@ namespace MyGame
     internal class Newupdate
     {
         //Создан комментарий
+        //Создан второй комментарий
     }
 }
